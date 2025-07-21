@@ -1,7 +1,6 @@
 What we're building in Micrograd is basically a super simplified, digital version of just one of those brain cells (a neuron). It takes in some numbers (like signals), does a little math (its "thinking" part), and then gives us an output (its "decision").
 
-Micrograd: Building a Micro-Autograd Engine (First Hour - Super Chill Version)
-So, like, what's the deal with this project so far?
+Micrograd: Building a Micro-Autograd Engine (First Hour).
 
 Our Big Idea (Right Now)
 The main goal is to get how backpropagation actually works, deep down. We're building a tiny version of something like PyTorch's autograd from scratch. It's all about turning math stuff into these "computational graphs" and then, like, super efficiently figuring out all the gradients (aka, derivatives) through 'yhem. Pretty neat, huh?
