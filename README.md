@@ -1,3 +1,5 @@
+What we're building in Micrograd is basically a super simplified, digital version of just one of those brain cells (a neuron). It takes in some numbers (like signals), does a little math (its "thinking" part), and then gives us an output (its "decision").
+
 Micrograd: Building a Micro-Autograd Engine (First Hour - Super Chill Version)
 So, like, what's the deal with this project so far?
 
